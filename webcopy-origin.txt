@@ -1,0 +1,248 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\get-huusk.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\get-huusk.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://get-huusk.com/build/assets/alpine-c76fbf9d.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\alpine-c76fbf9d.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/bootstrap-74b4457f.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\bootstrap-74b4457f.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/cart-option-64ed5f72.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\cart-option-64ed5f72.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/choices-dd9eec53.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\choices-dd9eec53.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/debounce-b1b63336.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\debounce-b1b63336.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/dynamic-module-import-a60ef581.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\dynamic-module-import-a60ef581.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/fraudnet-27cf94d3.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\fraudnet-27cf94d3.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/google-maps-a46755e4.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\google-maps-a46755e4.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/index-9b5fec24.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\index-9b5fec24.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/intersection-observer-90e9e37b.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\intersection-observer-90e9e37b.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/jquery-98d6ae90.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\jquery-98d6ae90.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/jquery-d5fcc973.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\jquery-d5fcc973.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/lazyload-b45a339c.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\lazyload-b45a339c.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/legacy-41783ffe.css
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\legacy-41783ffe.css
+Content Type: text/css
+
+Uri: https://get-huusk.com/build/assets/livewire.esm-4135611c.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\livewire.esm-4135611c.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/main-5647c3e9.css
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\main-5647c3e9.css
+Content Type: text/css
+
+Uri: https://get-huusk.com/build/assets/moment-64d44b98.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\moment-64d44b98.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/normalize-636e2359.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\normalize-636e2359.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/payments-f0f19c6e.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\payments-f0f19c6e.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/preload-helper-6f27e6cf.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\preload-helper-6f27e6cf.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/process-blik-fcf9ff07.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\process-blik-fcf9ff07.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/product-18c14ec7.css
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\product-18c14ec7.css
+Content Type: text/css
+
+Uri: https://get-huusk.com/build/assets/product-value-parser-25984bef.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\product-value-parser-25984bef.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/text-wrapper-04ace8f7.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\text-wrapper-04ace8f7.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/theme-6f6249aa.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\theme-6f6249aa.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/theme-96012385.css
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\theme-96012385.css
+Content Type: text/css
+
+Uri: https://get-huusk.com/build/assets/track-visited-pages-a7c6edb5.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\track-visited-pages-a7c6edb5.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/tracktor-16e5af44.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\tracktor-16e5af44.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/upsell-estimated-taxes-56747000.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\upsell-estimated-taxes-56747000.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/whoops-b9817266.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\whoops-b9817266.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/will-be-removed-26958b56.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\will-be-removed-26958b56.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/build/assets/_commonjsHelpers-042e6b4d.js
+File Name: C:\Downloaded Web Sites\get-huusk.com\build\assets\_commonjsHelpers-042e6b4d.js
+Content Type: application/javascript
+
+Uri: https://get-huusk.com/huusk/order
+File Name: C:\Downloaded Web Sites\get-huusk.com\huusk\order.html
+Content Type: text/html
+
+Uri: https://get-huusk.com/theme/components/cod-order-delivery-banner/bg.jpg
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\components\cod-order-delivery-banner\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://get-huusk.com/theme/components/cod-order-delivery-banner/check.svg
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\components\cod-order-delivery-banner\check.svg
+Content Type: image/svg+xml
+
+Uri: https://get-huusk.com/theme/huusk/favicon_.png
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\favicon_.png
+Content Type: image/png
+
+Uri: https://get-huusk.com/theme/huusk/order-20/options/1.png?14
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\order-20\options\1.png
+Content Type: image/png
+
+Uri: https://get-huusk.com/theme/huusk/order-20/options/2.png?14
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\order-20\options\2.png
+Content Type: image/png
+
+Uri: https://get-huusk.com/theme/huusk/order-20/options/3.png?14
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\order-20\options\3.png
+Content Type: image/png
+
+Uri: https://get-huusk.com/theme/huusk/order-20/options/4.png?14
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\order-20\options\4.png
+Content Type: image/png
+
+Uri: https://get-huusk.com/theme/huusk/product/images/logo-huusk-white.svg
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\huusk\product\images\logo-huusk-white.svg
+Content Type: image/svg+xml
+
+Uri: https://get-huusk.com/theme/images/70-discount-badge.png
+File Name: C:\Downloaded Web Sites\get-huusk.com\theme\images\70-discount-badge.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-2DT0NCM1Q4&l=gaLayer
+File Name: C:\Downloaded Web Sites\get-huusk.com\gtag\js
+Content Type: application/javascript
+

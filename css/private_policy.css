@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 10px;
+    /* margin: 20px; */
+}
+
+
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1 {
+    /* color: #333; */
+}
+
+h2 {
+    /* color: #555; */
+    margin-bottom: 10px;
+}
+
+h3 {
+    /* color: #777; */
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-top: 0;
+}
+
+section {
+    margin-top: 30px;
+    /* text-align: center; */
+   
+    font-size: 0.9em;
+}
+
+address {
+    margin-top: 10px;
+    font-style: normal;
+}
