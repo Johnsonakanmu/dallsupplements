@@ -43,31 +43,32 @@
     </div>
   </section>
 
+ 
   <section class="call-to-action pos-r bg-green" style="margin-top: 150px;">
-    <div class="container custom-container">
-      <div class="row">
-        <div class="col-12 col-sm-12 col-md-3 col-lg-3 col-xl-3 text-center d-none d-md-block">
-          <div class="call-to-action-big-img">
-            <img src="img/call-to-action-img.png" class="img-fluid call-to-action-big-img"
-              alt="Vigo Call to action Img">
-          </div>
+  <div class="container custom-container">
+    <div class="row">
+      <div class="col-12 col-md-3 text-center d-none d-md-block">
+        <div class="call-to-action-big-img">
+          <img src="img/call-to-action-img.png" class="img-fluid call-to-action-big-img" alt="Vigo Call to action Img"
+            style="max-width: 100%; height: auto;">
         </div>
-        <div class="col-12 col-sm-12 col-md-6 col-lg-7 col-xl-7 pd-0 d-md-flex align-items-center text-center">
-          <div class="call-to-action-content">
-            <!-- <p class="mr-0 white call-to-action-subtitle cou">About Us</p> -->
-            <p class="mr-0 white call-to-action-title ral" style="font-size: 20px;">
+      </div>
+      <div class="col-12 col-md-9 pd-0 d-md-flex align-items-center text-center">
+        <div class="call-to-action-content">
+          <p class="mr-0 white call-to-action-title ral" style="font-size: 20px; padding: 15px;">
             Discover top-quality whey protein supplements at DALL SUPPLEMENTS. We're dedicated to your 
             fitness journey with a commitment to quality, variety, and exceptional customer service. 
             Join us and achieve your goals with confidence. Our mission is to empower individuals to 
             reach their fitness goals by providing superior whey protein supplements that deliver 
             exceptional results. We believe in transparency, integrity, and customer satisfaction, 
-            ensuring that every product meets rigorous quality standards
-            </p>
-          </div>
+            ensuring that every product meets rigorous quality standards.
+          </p>
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
   
 
   

@@ -4,33 +4,39 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>DALL Supplement private Policy Page </title>
+  <title>DALL Supplements Privacy Policy Page</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <?php include 'header_css.php'  ?>
+  <style>
+    .page-title h2, .privacy-policy h2 {
+        font-size: calc(1.5rem + 1vw);
+    }
+    .privacy-policy p {
+        font-size: calc(1rem + 0.2vw);
+    }
+    .privacy-policy label, .privacy-policy input {
+        width: 100%;
+    }
+    @media (min-width: 768px) {
+        .privacy-policy label {
+            margin-top: 0;
+        }
+    }
+  </style>
 </head>
 
 <body id="vigo_body">
-  <!--[if lt IE 8]>
-      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-    <![endif]-->
 
   <div class="vigo-loder">
     <div class="sk-rotating-plane"></div>
   </div>
 
-  <!-- ==============================
-        Header top
-    =================================== -->
-  <?php include 'top_header.php'  ?>
+  <!-- Header top -->
+  <?php include 'top_header.php' ?>
 
-
- 
-
-  <!-- ==============================
-        Main Navbar
-    =================================== -->
+  <!-- Main Navbar -->
   <?php include 'navbar.php' ?>
 
   <section class="newsletter">
@@ -38,152 +44,138 @@
       <div class="row justify-content-center">
         <div class="col-md-12">
           <div class="page-title text-center">
-            
-            <h2 class="page-main-title white mr-0">Privacy Policy</h3>
+            <h2 class="page-main-title white mr-0">DALL SUPPLEMENTS</h2>
           </div>
         </div>
       </div>
     </div>
   </section>
 
+  <div class="text-center">
+    <h2 style="text-align: center; color: #000; font-size: 2.5rem; line-height: 1; margin-top: 30px; margin-bottom: 30px;">Privacy Policy</h2>
+  </div>
+
+  <div class="container privacy-policy">
   <form>
-     <div class="row justify-content-center ">
-       <label for="effective-date" class="form-label" style="position: relative; top:10px; color: #333; font-weight: 600; margin-top: 40px" >Effective Date:</label>
-       <div class="col-12 col-xl-6 text-center">
-       <input type="date" id="effective-date" class="form-control" style="width: 250px; margin-top: 40px" placeholder="Insert current date">
-       </div>
-     </div>
-    </form>
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-6">
+      <div class="form-group">
+        <label for="effective-date" class="form-label" style="color: #333; font-weight: 600;">Effective Date:</label>
+        <input type="date" id="effective-date" class="form-control" placeholder="Insert current date">
+      </div>
+    </div>
+  </div>
+</form>
 
-  
+<div style="margin-top: 3rem; margin-bottom: 3rem;">
+  <h2 style="margin-bottom: 1.5rem;">Introduction</h2>
+  <div class="row">
+    <div class="col-12">
+      <p>Welcome to DallSupplements.com. We respect your privacy and are committed to protecting your personal information. 
+        This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our 
+        website or make a purchase from our store.</p>
+    </div>
+  </div>
+</div>
 
-    <main >
-        <section>
-            <h2 style="color: #333; font-weight: 600; font-size: 30px"> Introduction</h2>
-            <p class="green" style="font-size: 18px">Welcome to DallSupplements.com. We respect your privacy and are committed to protecting your
-               personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or make a purchase from our store.</p>
-        </section>
-        
-        
+    <div style="margin-top: 40px">
+      <h2>1. Information We Collect</h2>
+      <p>1.1 We may collect the following types of information:</p>
+      <div>
+        <p>a) Personal Information</p>
+        <div>
+          <p>i. Name</p>
+          <p>ii. Email address</p>
+          <p>iii. Phone number</p>
+          <p>iv. Billing and shipping address</p>
+          <p>v. Payment information</p>
+        </div>
+      </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600"> Information We Collect</h2>
-            <h4 style="font-size: 20px; font-weight: 600">We may collect the following types of information:</h4>
-            <h3 style="font-size: 19px; font-weight: 600"> Personal Information:</h3>
-            <ul>
-              <p class="green" style="font-size: 18px"> Name.</p>
-                <p class="green" style="font-size: 18px">Email Address.</p>
-                <p class="green" style="font-size: 18px">Phone Number.</p>
-                <p class="green" style="font-size: 18px">Billing and shipping address.</p>
-                <p class="green" style="font-size: 18px">Payment information.</p>
-                
-            </ul>
-            <h3 style="font-size: 19px; font-weight: 600"> Non-Personal Information:</h3>
-            <ul>
-              <p class="green" style="font-size: 18px ">Browser type.</p>
-                <p class="green" style="font-size: 18px">IP address.</p>
-                <p class="green" style="font-size: 18px">Device information.</p>
-                <p class="green" style="font-size: 18px">Pages visited.</p>
-                <p class="green" style="font-size: 18px">Time spent on site.</p>
-                
-            </ul>
-        </section>
+      <div style="margin-top: 20px">
+        <p>b) Non-Personal Information</p>
+        <div>
+          <p>i. Browser type</p>
+          <p>ii. IP address</p>
+          <p>iii. Device information</p>
+          <p>iv. Pages visited</p>
+          <p>v. Time spent on site</p>
+        </div>
+      </div>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600"> How We Use Your Information</h2>
-            <h4 style="font-size: 20px; font-weight: 600">We use your information to:</h4>
-            <ul>
-              
-                <p class="green" style="font-size: 18px"> Process and fulfill orders.</p>
-                <p class="green" style="font-size: 18px">Communicate with you about orders and products.</p>
-                <p class="green" style="font-size: 18px">Improve our website and services.</p>
-                <p class="green" style="font-size: 18px">Send promotional emails (with your consent).</p>
-                <p class="green" style="font-size: 18px">Prevent fraud and enhance security.</p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>2. How We Use Your Information</h2>
+      <p>2.1 We use your information to:</p>
+      <div>
+        <p>a) Process and fulfill orders</p>
+        <p>b) Communicate with you about orders and products</p>
+        <p>c) Improve our website and services</p>
+        <p>d) Send promotional emails (with your consent)</p>
+        <p>e) Prevent fraud and enhance security</p>
+      </div>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600"> Your Choices</h2>
-            <h4 style="font-size: 20px; font-weight: 600">You can:</h4>
-            <ul>
-              
-                <p class="green" style="font-size: 18px">Opt-out of marketing communications.</p>
-                <p class="green" style="font-size: 18px"> Update or delete your account information.</p>
-                <p class="green" style="font-size: 18px"> Request access to your personal data .</p>  
-            <ul>         
-        </section>
+    <div style="margin-top: 40px">
+      <h2>3. Information Sharing</h2>
+      <p>3.1 We do not sell your personal information. We may share your information with:</p>
+      <div>
+        <p>a) Service providers (e.g., payment processors, shipping companies)</p>
+        <p>b) Law enforcement agencies when required by law</p>
+        <p>c) Successor entities in the event of a business transfer</p>
+      </div>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">Security Measures</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">We implement reasonable security measures to protect your information, including encryption and secure servers.</p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>4.1 Your Choices</h2>
+      <div>
+        <p>a) You can:</p>
+        <p>i. Opt-out of marketing communications</p>
+        <p>ii. Update or delete your account information</p>
+        <p>iii. Request access to your personal data</p>
+      </div>
+    </div>
 
+    <div style="margin-top: 40px">
+      <h2>5.1 Security Measures</h2>
+      <p>We implement reasonable security measures to protect your information, including encryption and secure servers.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">Cookies and Similar Technologies</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            We use cookies and similar technologies to enhance your browsing experience and analyze site traffic. You can manage cookie preferences through your browser settings.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>6.1 Cookies and Similar Technologies</h2>
+      <p>We use cookies and similar technologies to enhance your browsing experience and analyze site traffic. You can manage cookie preferences through your browser settings.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">Third-Party Links</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            Our website may contain links to third-party sites. We are not responsible for their privacy practices.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>7.1 Third-Party Links</h2>
+      <p>Our website may contain links to third-party sites. We are not responsible for their privacy practices.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">Children's Privacy</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            We do not knowingly collect information from children under 13. If you believe we have inadvertently collected such 
-            information, please contact us to have it removed.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>8.1 Children's Privacy</h2>
+      <p>We do not knowingly collect information from children under 13. If you believe we have inadvertently collected such information, please contact us to have it removed.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">Changes to This Policy</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            We may update this policy periodically. The latest version will be posted on this page with the effective date.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>9.1 California Privacy Rights</h2>
+      <p>We may update this policy periodically. The latest version will be posted on this page with the effective date.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">California Privacy Rights</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            California residents have additional rights under the California Consumer Privacy Act (CCPA). Please contact us for more information.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>10.1 Changes to This Policy</h2>
+      <p>We may update this policy periodically. The latest version will be posted on this page with the effective date.</p>
+    </div>
 
-        <section >
-        <h2 style="color: #333; font-weight: 600; font-size: 30px; font-weight: 600">International Users</h2>
-            <p class="green" style="font-size: 18px; font-weight: 600">
-            By using our site, you consent to the transfer of your information to the United States and its processing as described in this policy.
-          </p>
-                
-        </section>
+    <div style="margin-top: 40px">
+      <h2>11.1 International Users</h2>
+      <p>Using our site, you consent to transferring your information to the United States and its processing as described in this policy.</p>
+    </div>
+  </div>
 
-    </main>
-
-
-  <!-- ==============================
-        footer Section
-    =================================== -->
   <?php include 'new_policy.php' ?>
-
-
-  <!-- =========================
-    	Main Loding JS Script
-    ============================== -->
+  <!-- footer Section -->
+  <!-- Main Loding JS Script -->
   <?php include 'footer.js.php' ?>
-
-
 </body>
 
 </html>

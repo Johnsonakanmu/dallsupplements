@@ -1,9 +1,14 @@
 <section class="main-nav bg-white" id="sticker">
   <div class="container custom-container">
-    <nav class="navbar-expand-lg navbar-light d-lg-flex justify-content-lg-end pos-r">
+    <nav class="navbar navbar-expand-lg navbar-light d-lg-flex justify-content-lg-end pos-r">
       <div class="main-logo text-center d-lg-inline-flex justify-content-start d-lg-flex align-items-lg-center">
         <a class="navbar-brand mr-0" href="index.php">
-          <img src="img/dall_1.png" class="img-fluid header-logo" alt="Dall" height="100px" width="120px">
+          <img src="img/dall_1.png" class="img-fluid header-logo" alt="Dall" 
+               style="max-width: 100%; height: auto; max-height: 40px; /* Default height */
+                      @media (min-width: 768px) { max-height: 80px; } /* Medium screens */
+                      @media (min-width: 992px) { max-height: 100px; } /* Large screens */
+                      @media (min-width: 1200px) { max-height: 120px; } /* Extra large screens */
+                      ">
         </a>
       </div>
       <div class="d-flex justify-content-between d-lg-inline-flex justify-content-lg-between">

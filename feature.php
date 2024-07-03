@@ -53,14 +53,15 @@
     <section class="product-features" id="product-features">
     <div class="container custom-container">
       <div class="row justify-content-center">
-        <div class="col-md-12 product-features-main-title">
-          <div class="page-title text-center">
-            <h5 class="page-sub-title mr-0">Our</h5>
-            <h3 class="page-main-title mr-0">Supplement Features</h3>
-            <p class="page-sub-title text-center" style="font-size: 20px">The features of whey protein highlight its nutritional composition, effectiveness in fitness regimens, and versatility in usage.
-              <br> Here are the key features of whey protein</p>
-          </div>
-        </div>
+      <div class="col-md-10 product-features-main-title">
+  <div class="page-title text-center">
+    <h5 class="page-sub-title mr-0" style="font-size: 18px;">Our</h5>
+    <h3 class="page-main-title mr-0" style="font-size: 32px;">Supplement Features</h3>
+    <p class="page-sub-title text-center" style="font-size: 20px; color: #212529; font-weight: 600; line-height: 1.6; margin-top: 20px;">
+      The features of whey protein highlight its nutritional composition, effectiveness in fitness regimens, and versatility in usage. Here are the key features of whey protein.
+    </p>
+  </div>
+</div>
         <div class="col-12 col-sm-10 col-md-11 col-lg-6 col-xl-4 order-lg-2  order-xl-1">
           <div class="product-features-left">
             <div class="media mrt-0 flex-lg-row-reverse">

@@ -38,23 +38,25 @@
   <!-- ==============================
         Call To Action Section
     =================================== -->
-    <section class="newsletter">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-md-12">
-          <div class="page-title text-center">
-            <h5 class="page-sub-title white mr-0">Welcome to your ultimate destination for premium whey protein 
-              supplements. Whether you're a fitness enthusiast, athlete, or simply looking to maintain a
-               healthy lifestyle, our whey protein products are crafted to support your goals effectively. 
-               We pride ourselves on delivering top-quality whey protein supplements that are scientifically 
-               formulated to enhance muscle growth, aid in recovery, and support overall fitness. Our products
-                are trusted by athletes and fitness enthusiasts worldwide for their purity and effectiveness</h5>
-            <!-- <h3 class="page-main-title white mr-0">Sign Up Newsletter</h3> -->
-          </div>
+    <section class="newsletter" style="padding: 40px 0;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-10 col-lg-10 text-center">
+        <div class="page-title">
+          <h5 class="page-sub-title white" style="font-size: 18px; line-height: 1.6; text-align: center;">
+            Welcome to your ultimate destination for premium whey protein supplements. Whether you're a fitness enthusiast,
+            athlete, or simply looking to maintain a healthy lifestyle, our whey protein products are crafted to support your
+            goals effectively. We pride ourselves on delivering top-quality whey protein supplements that are scientifically
+            formulated to enhance muscle growth, aid in recovery, and support overall fitness. Our products are trusted by
+            athletes and fitness enthusiasts worldwide for their purity and effectiveness.
+          </h5>
+          <!-- <h3 class="page-main-title white mr-0">Sign Up Newsletter</h3> -->
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
+
 
   <section class="call-to-action pos-r bg-green">
     <div class="container custom-container">
