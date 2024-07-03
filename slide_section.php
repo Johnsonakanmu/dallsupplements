@@ -29,7 +29,7 @@
                   the production of antibodies to fight off pathogens.
                   Reduce inflammation and oxidative stress, which can weaken immune function.
                 </p>
-                <a href=".xyz/checkout.php" target="_blank"
+                <a href=".xyz/checkout." target="_blank"
                   class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none text-uppercase">SHOW NOW
                   </a>
               </div>
@@ -53,7 +53,7 @@
                   dietary Supplements include Vitamins and minerals, Amino acids, Herbs and botanicals
                   Omega-3 fatty acids, Probiotics, Antioxidants.
                 </p>
-                <a href=".xyz/checkout.php" target="_blank"
+                <a href=".xyz/checkout" target="_blank"
                   class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">SHOP NOW
                   </a>
               </div>

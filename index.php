@@ -75,7 +75,7 @@
         </div>
         <div
           class="col-12 col-sm-12 col-md-3 col-lg-2 col-xl-2 d-md-flex align-items-center text-center call-to-action-view-btn">
-          <a href="product.php" target="_blank"
+          <a href="product" target="_blank"
             class="btn ral btn-outline-primary vigo-btn hvr-shutter-in-horizontal focus-none bg-white border-transparent green">VIEW
             PRODUCT</a>
         </div>
@@ -204,7 +204,7 @@
               on this <span class="green services-offer-text-highlights ral">Whey Protein</span>
             </div>
             <div class="product-offers-btn">
-              <a href=".xyz/checkout.php" target="_blank"
+              <a href=".xyz/checkout" target="_blank"
                 class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER
                 NOW</a>
             </div>
@@ -749,7 +749,7 @@
                       <input type="number" class="form-control border-transparent black focus-none" placeholder="1">
                     </div>
                     <div class="col-4">
-                      <a href=".xyz/checkout.php" target="_blank"
+                      <a href=".xyz/checkout" target="_blank"
                         class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER
                         NOW</a>
                     </div>

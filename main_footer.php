@@ -96,10 +96,10 @@
                 <p class="display-inline-block mr-0">201 Oak Street Building <br>27, 27, Manchester, US</p>
               </li>
               <li class="list-group-item pd-0 bg-transparent border-transparent">
-                <a href="private_policy.php" class="white"> Privacy Policy</a>
+                <a href="private_policy" class="white"> Privacy Policy</a>
               </li>
               <li class="list-group-item pd-0 bg-transparent border-transparent">
-                <a href="term_condition.php" class="white"> Terms of Service</a>
+                <a href="term_condition" class="white"> Terms of Service</a>
               </li>
             </ul>
           </div>
@@ -121,7 +121,7 @@
             <a href="#"><i class="white fa fa-instagram" aria-hidden="true"></i></a>
           </div>
           <p class="copyright-text white">
-            Copyright &copy; <a href="../../../../index.php" class="white" target="_blank">ThemeIM</a> 2017. All
+            Copyright &copy; <a href="../../../../index" class="white" target="_blank">ThemeIM</a> 2017. All
             Right
             Reserved by Dall Supplements
           </p>

@@ -2,7 +2,7 @@
   <div class="container custom-container">
     <nav class="navbar navbar-expand-lg navbar-light d-lg-flex justify-content-lg-end pos-r">
       <div class="main-logo text-center d-lg-inline-flex justify-content-start d-lg-flex align-items-lg-center">
-        <a class="navbar-brand mr-0" href="index.php">
+        <a class="navbar-brand mr-0" href="index">
           <img src="img/dall_1.png" class="img-fluid header-logo" alt="Dall" 
                style="max-width: 100%; height: auto; max-height: 40px; /* Default height */
                       @media (min-width: 768px) { max-height: 80px; } /* Medium screens */
@@ -23,29 +23,29 @@
             <div class="my-2 my-lg-0">
               <ul class="navbar-nav" id="nav">
                 <li class="nav-item">
-                  <a class="nav-link lato" href="index.php">Home</a>
+                  <a class="nav-link lato" href="index">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link lato" href="about.php">About</a>
+                  <a class="nav-link lato" href="about">About</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link lato" href="product.php">Product</a>
+                  <a class="nav-link lato" href="product">Product</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link lato" href="price.php">Price</a>
+                  <a class="nav-link lato" href="price">Price</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link lato" href="feature.php">Feature</a>
+                  <a class="nav-link lato" href="feature">Feature</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link lato" href="contact.php">Contact</a>
+                  <a class="nav-link lato" href="contact">Contact</a>
                 </li>
               </ul>
             </div>
           </div>
         </div>
         <div class="p-2 d-lg-flex align-items-lg-center">
-          <a href=".xyz/checkout.php" target="_blank"
+          <a href=".xyz/checkout" target="_blank"
             class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER</a>
         </div>
       </div>

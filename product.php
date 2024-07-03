@@ -265,7 +265,7 @@
                       <input type="number" class="form-control border-transparent black focus-none" placeholder="1">
                     </div>
                     <div class="col-4">
-                      <a href=".xyz/checkout.php" target="_blank"
+                      <a href=".xyz/checkout" target="_blank"
                         class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER
                         NOW</a>
                     </div>

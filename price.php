@@ -72,7 +72,7 @@
       </li>
     </ul>
     <div class="pricing-order-now text-center">
-      <a href=".xyz/checkout.php" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
+      <a href=".xyz/checkout" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
     </div>
   </div>
 </div>
@@ -101,7 +101,7 @@
               </li>
             </ul>
             <div class="pricing-order-now text-center">
-              <a href=".xyz/checkout.php" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
+              <a href=".xyz/checkout" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@
       </li>
     </ul>
     <div class="pricing-order-now text-center">
-      <a href=".xyz/checkout.php" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
+      <a href=".xyz/checkout" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
     </div>
   </div>
 </div>
@@ -158,7 +158,7 @@
               </li>
             </ul>
             <div class="pricing-order-now text-center">
-              <a href=".xyz/checkout.php" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
+              <a href=".xyz/checkout" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
             </div>
           </div>
         </div>
@@ -186,7 +186,7 @@
               </li>
             </ul>
             <div class="pricing-order-now text-center">
-              <a href=".xyz/checkout.php" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
+              <a href=".xyz/checkout" target="_blank" class="btn ral btn-outline-primary vigo-btn hvr-shutter-out-horizontal bg-green border-transparent white focus-none">ORDER NOW</a>
             </div>
           </div>
         </div>
